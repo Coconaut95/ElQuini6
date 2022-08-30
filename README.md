@@ -1,4 +1,4 @@
-#Quini 6
+# Quini 6
 
 ## Información
 El archivo .py como el entorno virtual "money" está acá por cualquier cambios que desees hacer, sos libre. <br>
