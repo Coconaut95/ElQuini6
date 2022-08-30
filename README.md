@@ -1,7 +1,7 @@
 #Quini 6
 
 ## Información
-El archivo fuente está en el repositorio por cualquier cambios que desees hacer, sos libre. <br>
+El archivo .py como el entorno virtual "money" está acá por cualquier cambios que desees hacer, sos libre. <br>
 Usé "pyinstaller" para generar un archivo .exe y poder transportar el programa libremente.<i>(Opción usada: --onefile)</i><br>
 Para generar un setup que me comprima lo generado por PyInstaller (dist, buil y .spec), usé "NSIS SourceForge" el cual te obliga a usar .zip (mirar tutorial, bastante sencillo)<br>
 
